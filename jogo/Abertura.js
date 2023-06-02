@@ -1,0 +1,3 @@
+function mostraAbertura(){
+    background(imgAbertura);
+}

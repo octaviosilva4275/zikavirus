@@ -1,0 +1,3 @@
+function mostraFim(){
+    background(imgFim);
+}
